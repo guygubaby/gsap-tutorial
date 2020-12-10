@@ -1,0 +1,16 @@
+html {
+  scroll-snap-type: y mandatory;
+}
+
+.panel {
+  scroll-snap-align: start;
+}
+
+.red {
+  background-color: #cf3535;
+  background-image: none;
+}
+
+.panel p {
+  font-size: 32px;
+}
