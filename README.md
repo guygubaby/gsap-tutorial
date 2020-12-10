@@ -1,3 +1,3 @@
 # gsap tutorail
 
-[snap-scroll](/)
+[snap-scroll](/src/snap-scroll/app1.ts)
